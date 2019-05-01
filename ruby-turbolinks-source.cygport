@@ -1,7 +1,7 @@
 inherit rubygem
 
 NAME="ruby-turbolinks-source"
-VERSION=5.0.3
+VERSION=5.2.0
 RELEASE=1
 CATEGORY="Ruby"
 SUMMARY="Ruby web app link speedup library (JS assets)"
